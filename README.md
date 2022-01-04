@@ -1,1 +1,0 @@
-# Lexical-analyzer-using-automata-in-C
